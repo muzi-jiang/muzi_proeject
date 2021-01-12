@@ -34,6 +34,9 @@ public class ThreadTest {
         System.out.println(atomicInteger.get());
     }
 
+
+    //测试结果
+
 }
 
 
